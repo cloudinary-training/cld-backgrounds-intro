@@ -1,0 +1,9 @@
+{
+  "name": "cld-background-transformations",
+  "version": "1.0.0",
+  "description": "Cloudinary Academy microcourse focusing on applying background transformations and using Cloudinary's generative AI capabilities.",
+  "dependencies": {
+    "cloudinary": "^2.4.0",
+    "dotenv": "^16.4.5"
+  }
+}
